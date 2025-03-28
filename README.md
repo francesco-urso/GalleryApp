@@ -113,12 +113,18 @@ gallery-app/
 │   ├── middleware/
 │   ├── models/
 │   ├── routes/
+│   ├── uploads/
+│   ├── .env
 │   ├── app.js
+│   ├── db.js
 │   └── server.js
 ├── frontend/
+│   ├── assets/
+│   │   ├── images/
+│   │   └── css/
+│   ├── js/
 │   ├── index.html
 │   ├── style.css
-│   └── script.js
 └── sql/
     └── galleryapp.sql
 ```
